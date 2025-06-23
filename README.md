@@ -6,7 +6,7 @@ A beautiful, interactive web application that showcases cuisines from around the
 
 ### 🍽️ Comprehensive Cuisine Database
 - **20+ Global Cuisines** including Italian, Japanese, French, Chinese, Indian, Mexican, Thai, and many more
-- **200+ Famous Dishes** with authentic names and regional specialties
+- **100+ Famous Dishes** with authentic names and regional specialties
 - **Cultural Context** with descriptions of each cuisine's characteristics and influences
 
 ### 🔍 Smart Search System
